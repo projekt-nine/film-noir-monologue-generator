@@ -1,4 +1,4 @@
-# Film Noir Generator
+# Film Noir Monologue Generator
 
 A quick-and-dirty project to demonstrate how to use [Tracery](https://github.com/galaxykate/tracery)
 and [Pytracery](https://github.com/aparrish/pytracery) to procedurally generate Film Noir monologues.
