@@ -507,8 +507,8 @@
         "Got the autopsy results",
         "Coroner's report came in",
         "Got word from the morgue",
-        "Got a call from the morgue",
-        "Got a call from the sergeant",
+        "Got a call about something similar from the morgue",
+        "Got a call about something similar just yesterday",
         "Apparently this all went down",
         "The whole thing went down"
     ],
