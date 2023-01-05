@@ -56,5 +56,8 @@ def make_tracery(rules):
 if __name__ == "__main__":
     args = parser.parse_args()
     json = combine_grammars('grammars')
-    rendered_grammar = make_tracery(json).flatten(args.start)
-    print(rendered_grammar)
+    for i in range(10):
+        rendered_grammar = make_tracery(json).flatten(args.start)
+        print()
+        print(rendered_grammar)
+        print()
