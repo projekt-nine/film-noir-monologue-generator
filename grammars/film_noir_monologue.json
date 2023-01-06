@@ -1,6 +1,5 @@
 {
     "fnm_start": [
-        "#fnm_a#",
         "#fnm_b#"
     ],
     "fnm_a": [
@@ -189,6 +188,7 @@
         "the special",
         "the burger",
         "a sad turkey sandwich",
+        "an egg salad sandwich wrapped in wax paper",
         "the saddest hamburger ever laid eyes on",
         "the saddest green salad I've ever laid eyes on",
         "the saddest French onion soup I've ever seen",
@@ -242,7 +242,7 @@
         "creeps"
     ],
     "fnm_contact": [
-        "#fnm_policerank# #acn_surname#",
+        "#fnm_policerank# #nac_surname#",
         "#fnm_policerank# #itn_surname#",
         "#fnm_policerank# Mc#sct_clan#",
         "#fnm_policerank# Mac#sct_clan#",
@@ -349,12 +349,13 @@
         "iced",
         "killed",
         "murdered",
+        "no-longered, deceased, went off to the west, understand",
         "shot",
         "necktied",
         "liquidated",
         "fragged",
         "laid out",
-        "put on iice",
+        "put on ice",
         "nailed",
         "offed",
         "smoked",
@@ -363,10 +364,13 @@
         "whacked",
         "wasted",
         "disappeared",
+        "popped off",
         "returned to God",
+        "sent to the undiscovered country",
         "sent to the bottom of a lake",
-        "sent home",
-        "lost to us",
+        "sent for a little dirt nap",
+        "sent home to the good Lord",
+        "kicked the bucket, or maybe someone else kicked it for em",
         "ushered into eternity",
         "sent to be bagged and tagged",
         "set up for a hot date at the Coroner's Office"
@@ -381,7 +385,6 @@
         "They found #fnm_murderweapon.a# and lifted a few clean prints off of it.",
         "Looks like they were done in with a blunt object",
         "Had to be done with a sizeable knife, based on the coroner's report",
-
         "The body was cut up pretty bad",
         "The body was found in pieces",
         "The body had more holes in it than Swiss cheese",
@@ -620,9 +623,9 @@
         "the best pair of high heels my floor will ever feel,",
         "the best pair of high heels these streets will ever feel,",
         "the bewitching",
-        "heiress to the vast #acn_surname# #fnm_widget# fortune,",
-        "the entrancing widow of the late #acn_male# #acn_surname#,",
-        "the lovely daughter of the late #acn_male# #acn_surname#"
+        "heiress to the vast #nac_surname# #fnm_widget# fortune,",
+        "the entrancing widow of the late #nac_male# #nac_surname#,",
+        "the lovely daughter of the late #nac_male# #nac_surname#"
     ],
     "fnm_widget": [
         "toothpaste",
@@ -646,12 +649,12 @@
     "fnm_ladyname": [
         "Miss #fnm_ladylast#",
         "Miss #fnm_ladyfirst# #fnm_ladylast#",
-        "Miss #acn_female# #fnm_ladylast#",
+        "Miss #nac_female# #fnm_ladylast#",
         "Madame #fnm_ladylast#",
         "Madame #fnm_ladyfirst# #fnm_ladylast#",
-        "Mrs. #acn_female# #fnm_ladylast#",
-        "good ol' plain ol' Mrs. #acn_female# #acn_ladylast#",
-        "Miss #acn_surname#"
+        "Mrs. #nac_female# #fnm_ladylast#",
+        "good ol' plain ol' Mrs. #nac_female# #fnm_ladylast#",
+        "Miss #nac_surname#"
     ],
     "fnm_ladyfirst": [
         "Alexa",
@@ -801,15 +804,20 @@
         "things were starting to go my way"
     ],
     "fnm_outro": [
+        "Ace is back on the case, apparently.",
         "Damn. Looks like I'm back on the case.",
         "Looks like I've got a fresh case now.",
         "Looks like it'll be another grind.",
-        "Looks like another greusome mystery, I said, with an unexpected giddiness in my voice",
+        "Looks like another greusome mystery, I said, with an unexpected giddiness in my voice.",
+        "Looks like another greusome mystery, I said, pulling an egg salad sandwich out of my back pocket.",
+        "Looks like another greusome mystery, I said, pulling an egg salad sandwich out of my back pocket, unwrapping it and greedily eating it as I began to describe life in the city, waving my hands and the sandwich both, knocking pedestrians who weren't paying close enough attention, and leaving a trail on the sidewalk like animal droppings.",
+        "Looks like another fresh case.",
+        "Looks like another fresh case, I said, pulling a butt from my back pocket and lighting it.",
         "\"#fnm_anotherone#\" I said, loading my #fnm_gun#.",
-        "\"#fnm_anotherone#\" I said, knowing the night was spoiled. I called for #fnm_thecar#",
+        "\"#fnm_anotherone#\" I said, knowing the night was spoiled. I called for #fnm_thecar#.",
         "\"#fnm_anotherone#\" I muttered under my breath.",
         "\"#fnm_anotherone#\" I muttered under my breath. I found a soggy cigar in my pocket and stuck it in my mouth, cursing it when it wouldn't light.",
-        "I asked where it happened. I lit up a cigarette, but forgot to offer one to the dame. She looked upset.",
+        "I asked where it happened. I lit up a cigarette, but forgot to offer one to the dame. Probably too young anyway.",
         "I asked where it happened, and lit up a cigarette. I offered one to the dame, but she declined. She took out a can of chaw, slapped it hard a few times, pinched off a plug of chewing tobacco as big as a potato, and tucked it inside her lower lip. I just stood there and stared, rapt. \"Filthy habit, I know,\" she said, around the chaw. \"Picked it up from my mother.\" She spat a long, arcing stream of tobacco juice that spattered loudly on the pavement."
     ],
     "fnm_walkedin": [
