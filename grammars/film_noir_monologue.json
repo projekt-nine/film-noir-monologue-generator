@@ -1,6 +1,8 @@
 {
     "fnm_start": [
-        "#fnm_b#"
+        "#fnm_c#",
+        "#fnm_d#",
+        "#fnm_e#"
     ],
     "fnm_a": [
         "#fnm_intro# I had just #fnm_wentto# #fnm_restaurant# and ordered #fnm_restaurantorder#. So in #fnm_walks# #fnm_contact# - looking for me as usual. Turns out #fnm_victim# got #fnm_killed#. #fnm_weapon#. #fnm_time#"
@@ -916,5 +918,126 @@
         "let her in the door",
         "figure out what was going on",
         "get a word in"
+    ],
+    "fnm_c": [
+        "#fnm_intro# I didn't haved much to go on... but #fnm_theboys# did #fnm_digup#. #onm_start# Oh, and the victim - #fnm_victim# - found #fnm_killed#. #fnm_time#"
+    ],
+    "fnm_theboys": [
+        "the boys",
+        "the boys at the office",
+        "my secretary",
+        "the feds",
+        "my partner",
+        "the new kid",
+        "#fnm_contact#",
+        "an old contact",
+        "an informant I keep on the payroll",
+        "my insider",
+        "I",
+        "the office"
+    ],
+    "fnm_digup": [
+        "dig up something juicy",
+        "hit a possible lead",
+        "hit a worthy lead",
+        "hit some fresh dirt",
+        "get a few bites",
+        "get a good lead",
+        "get a live lead",
+        "get a bite on the line",
+        "find something unusual",
+        "find a piece to the puzzle",
+        "manage to dig something up",
+        "manage to get something",
+        "manage to find something interesting",
+        "promise there was more to it than meets the eye",
+        "mention a possible lead"
+    ],
+    "fnm_d": [
+        "#fnm_intro# I had just #fnm_wentto# #fnm_theoffice#. As soon as I #fnm_madecoffee# I #fnm_getaring# from #fnm_contact#. Turns out #fnm_victim# got #fnm_killed#. #fnm_weapon#. #fnm_time#"
+    ],
+    "fnm_theoffice": [
+        "the office",
+        "work",
+        "the house",
+        "the station",
+        "the precinct"
+    ],
+    "fnm_madecoffee": [
+        "put some coffee on",
+        "sat down",
+        "got in the door",
+        "got through the door",
+        "got there",
+        "turned on the lights",
+        "opened the paper",
+        "opened the mail",
+        "sat down with the mail",
+        "sat down with the paper",
+        "took off my coat",
+        "put up my hat",
+        "emptied the last splashes of burbon into my coffee",
+        "poured a glass of scotch for breakfast",
+        "lit up a cigar for breakfast"
+    ],
+    "fnm_getaring": [
+        "get a ring",
+        "get this call",
+        "got a call",
+        "got a ring",
+        "got a buzz",
+        "#fnm_see# a note on the desk",
+        "#fnm_see# a scribbled note",
+        "#fnm_see# a note about a message",
+        "#fnm_see# a typed letter",
+        "#fnm_see# a note on the door",
+        "#fnm_see# a lone letter in the inbox",
+        "#fnm_see# a handwritten note on top of the inbox",
+        "#fnm_see# something unusual"
+    ],
+    "fnm_see": [
+        "see",
+        "spot",
+        "eyeball",
+        "eye"
+    ],
+    "fnm_e": [
+        "#fnm_intro# I picked up the phone before it finished the first ring. It was #fnm_ladyiknew# #fnm_ladyname#. She sounded #fnm_sounded#. I'll never forget what she said next. \"#opm_start#.\" #fnm_outro#",
+        "#fnm_intro# I picked up the phone before it finished the first ring. It was #fnm_ladyiknew# #fnm_ladyname#. She sounded #fnm_sounded#. I'll never forget what she said next. \"#opm_start#.\" Then #fnm_phonecallinterrupt#. #fnm_outro#",
+        "#fnm_intro# I picked up the phone before it finished the first ring. It was #fnm_ladyiknew# #fnm_ladyname#. She sounded #fnm_sounded#. She said, \"#opm_start#.\" #fnm_outro#",
+        "#fnm_intro# I picked up the phone before it finished the first ring. It was #fnm_ladyiknew# #fnm_ladyname#. She sounded #fnm_sounded# as she quickly said, \"#opm_start#.\" Then #fnm_phonecallinterrupt#. #fnm_outro#"
+    ],
+    "fnm_sounded": [
+        "concerned",
+        "vexed",
+        "worried",
+        "tense",
+        "frightened",
+        "pretty choked up",
+        "pretty worked up",
+        "like she'd inhaled some helium, until I realized that was just how her voice sounded",
+        "like one of my ex-wives at first, and I froze like a deer in the headlights",
+        "she was auditioning for a role",
+        "like she was terrified",
+        "quiet, as though someone were nearby",
+        "quiet, like someone was nearby",
+        "quiet, like she didn't want anyone to overhear",
+        "annoyed, like it was something I said",
+        "like she was inside of a closet",
+        "like she was calling from an airport runway",
+        "like she had butt-dialed me, all I heard at first were soft muffled noises"
+    ],
+    "fnm_phonecallinterrupt": [
+        "she hung up before I could get a word in",
+        "she screamed, \"Can you hear me? Hello?\" And the line went dead",
+        "the line crackled and cut out",
+        "the line clicked and went dead",
+        "I could hear her sobbing. Before I could say anything, she'd hung up",
+        "a man's voice, indistinct, and a clinking noise",
+        "I could hear a foghorn",
+        "the sound of boats",
+        "a siren approaching, as she cursed under her breath.",
+        "a siren approaching, as she cursed under her breath. \"I'll call you back,\" she said hurriedly",
+        "a siren approaching, as she cursed under her breath. \"I'll have to explain later,\" she said hurriedly, and hung up"
     ]
 }
