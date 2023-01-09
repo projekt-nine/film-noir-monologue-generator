@@ -5,7 +5,7 @@
         "#fnm_e#"
     ],
     "fnm_a": [
-        "#fnm_intro# I had just #fnm_wentto# #fnm_restaurant# and ordered #fnm_restaurantorder#. So in #fnm_walks# #fnm_contact# - looking for me as usual. Turns out #fnm_victim# got #fnm_killed#. #fnm_weapon#. #fnm_time#"
+        "#fnm_intro# I had just #fnm_wentto# #fnm_restaurant# and ordered #fnm_restaurantorder#. So in #fnm_walks# #fnm_contact# - looking for me as usual. Turns out #fnm_victim# was #fnm_killed#. #fnm_weapon#. #fnm_time#"
     ],
     "fnm_intro": [
         "This one could bring the #fnm_nth# Precinct to its knees, and maybe the whole city down with it.",
@@ -350,12 +350,15 @@
         "done in",
         "iced",
         "killed",
+        "found dead",
         "murdered",
-        "no-longered, deceased, went off to the west, understand",
+        "found murdered",
+        "sent to meet some ancestors",
         "shot",
         "necktied",
         "liquidated",
         "fragged",
+        "found fragged",
         "laid out",
         "put on ice",
         "nailed",
@@ -372,10 +375,15 @@
         "sent to the bottom of a lake",
         "sent for a little dirt nap",
         "sent home to the good Lord",
-        "kicked the bucket, or maybe someone else kicked it for em",
         "ushered into eternity",
         "sent to be bagged and tagged",
-        "set up for a hot date at the Coroner's Office"
+        "set up for a hot date at the Coroner's Office",
+        "toe-tagged",
+        "sent to the morgue, cold",
+        "found by the cops",
+        "found dead by a neighbor",
+        "rolled into an early grave",
+        "zipped, bagged, and tied"
     ],
     "fnm_weapon": [
         "Found #fnm_murderweapon.a# near the body with clear signs of a struggle.",
@@ -920,7 +928,7 @@
         "get a word in"
     ],
     "fnm_c": [
-        "#fnm_intro# I didn't haved much to go on... but #fnm_theboys# did #fnm_digup#. #onm_start# Oh, and the victim - #fnm_victim# - found #fnm_killed#. #fnm_time#"
+        "#fnm_intro# I didn't have much to go on... but #fnm_theboys# did #fnm_digup#. #onm_start# Oh, and the victim - #fnm_victim# - was #fnm_killed#. #fnm_time#"
     ],
     "fnm_theboys": [
         "the boys",
@@ -954,7 +962,7 @@
         "mention a possible lead"
     ],
     "fnm_d": [
-        "#fnm_intro# I had just #fnm_wentto# #fnm_theoffice#. As soon as I #fnm_madecoffee# I #fnm_getaring# from #fnm_contact#. Turns out #fnm_victim# got #fnm_killed#. #fnm_weapon#. #fnm_time#"
+        "#fnm_intro# I had just #fnm_wentto# #fnm_theoffice#. As soon as I #fnm_madecoffee# I #fnm_getaring# from #fnm_contact#. Turns out #fnm_victim# was #fnm_killed#. #fnm_weapon#. #fnm_time#"
     ],
     "fnm_theoffice": [
         "the office",
